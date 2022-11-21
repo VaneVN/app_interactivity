@@ -1,6 +1,6 @@
 {
-    "name": "agregar_interactividad",
-    "short_name": "agregar_interactividad",
+    "name": "interactivity",
+    "short_name": "interactivity",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
